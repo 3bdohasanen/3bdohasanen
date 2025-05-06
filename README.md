@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Abdulrahman Hasanen 👋</h1>
-<p align="center">💻 I'm currently learning Web Development</p>
+<p align="center">💻 I'm a student at the Faculty of Computers and Information, currently learning Web Development</p>
 
 ## 🔗 Socials:
 <p align="center">
