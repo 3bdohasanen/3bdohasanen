@@ -17,6 +17,9 @@
   <a href="https://linkedin.com/in/3bdohasanen">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  <a href="https://www.youtube.com/@3bdohasanen">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" alt="YouTube">
+  </a>
   <a href="https://x.com/3bdohasanen">
     <img src="https://img.shields.io/badge/X-1DA1F2?logo=x&logoColor=white" alt="X">
   <a href="mailto:www.3bdohasanen@gmail.com">
