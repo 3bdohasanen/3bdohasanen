@@ -4,7 +4,6 @@
 
  Backend Developer in progress  
  Currently focusing on **Python Backend Development**  
- Interested in APIs, Databases, and scalable systems
 
 ---
 
