@@ -26,7 +26,7 @@ I enjoy solving problems and continuously improving my technical skills through 
 <br>
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
 
-<br><br>
+<br>
 
 <strong>Languages</strong>  
 <br>
@@ -34,7 +34,7 @@ I enjoy solving problems and continuously improving my technical skills through 
 <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
 
-<br><br>
+<br>
 
 <strong>Backend</strong>  
 <br>
@@ -42,7 +42,7 @@ I enjoy solving problems and continuously improving my technical skills through 
 <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white"/>
 
-<br><br>
+<br>
 
 <strong>Databases</strong>  
 <br>
@@ -50,7 +50,7 @@ I enjoy solving problems and continuously improving my technical skills through 
 <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white"/>
 
-<br><br>
+<br>
 
 <strong>Tools</strong>  
 <br>
