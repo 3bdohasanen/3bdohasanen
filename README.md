@@ -18,6 +18,12 @@ I enjoy solving problems and continuously improving my technical skills through 
 
 ---
 
+<strong>Core</strong>  
+<br>
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
+
+<br>
+
 ## Tech Stack
 
 <div align="center">
