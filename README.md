@@ -18,19 +18,18 @@ I enjoy solving problems and continuously improving my technical skills through 
 
 ---
 
-<strong>Core</strong>  
-<br>
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
-
-<br>
-
 ## Tech Stack
 
 <div align="center">
 
-<strong>Languages</strong>  
+<strong>Core</strong>  
 <br>
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
+
+<br><br>
+
+<strong>Languages</strong>  
+<br>
 <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
