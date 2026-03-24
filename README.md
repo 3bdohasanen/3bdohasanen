@@ -1,11 +1,10 @@
-<h1 align="center">Abdulrahman Hasanen</h1>
+<h1 align="center"> Hi, I'm Abdulrahman Hasanen</h1>
 
 <div align="center">
 
-Backend Developer in progress  
-Focused on Python, APIs, and scalable backend systems  
-
-</div>
+ Backend Developer in progress  
+ Currently focusing on **Python Backend Development**  
+ Interested in APIs, Databases, and scalable systems
 
 ---
 
