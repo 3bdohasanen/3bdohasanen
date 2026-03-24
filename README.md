@@ -78,7 +78,7 @@ I enjoy solving problems and continuously improving my technical skills through 
 
 ##  Currently Learning
 
-<div align="center">
+<div align="left">
 
 🔹 Advanced Python Concepts  
 🔹 FastAPI & Backend Development  
@@ -91,7 +91,7 @@ I enjoy solving problems and continuously improving my technical skills through 
 
 ##  Next Goals
 
-<div align="center">
+<div align="left">
 
 🔹 Build real backend applications  
 🔹 Learn Docker & deployment  
