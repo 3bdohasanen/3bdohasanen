@@ -64,25 +64,38 @@ I enjoy solving problems and continuously improving my technical skills through 
 
 <div align="center">
 
-Object-Oriented Programming  
-RESTful APIs  
-Data Structures & Algorithms  
-Problem Solving  
-Debugging & Clean Code  
-Database Fundamentals  
+🔹 Object-Oriented Programming (OOP)  
+🔹 RESTful API Fundamentals  
+🔹 Data Structures & Algorithms (Basics)  
+🔹 Problem Solving  
+🔹 Debugging & Code Optimization  
+🔹 Version Control (Git & GitHub)  
+🔹 Database Design Basics  
 
 </div>
 
 ---
 
-## Currently Learning
+##  Currently Learning
 
 <div align="center">
 
-Advanced Python  
-FastAPI  
-Database Optimization  
-System Design Basics  
+🔹 Advanced Python Concepts  
+🔹 FastAPI & Backend Development  
+🔹 Database Optimization  
+🔹 Clean Code & Best Practices  
+
+</div>
+
+---
+
+##  Next Goals
+
+<div align="center">
+
+🔹 Build real backend applications  
+🔹 Learn Docker & deployment  
+🔹 Improve system design skills  
 
 </div>
 
@@ -114,6 +127,6 @@ System Design Basics
 
 <div align="center">
 
-Code. Learn. Build.
+⚡ **"Code. Learn. Build. Improve."** ⚡
 
 </div>
