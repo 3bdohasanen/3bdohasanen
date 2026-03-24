@@ -62,7 +62,7 @@ I enjoy solving problems and continuously improving my technical skills through 
 
 ## Core Skills
 
-<div align="center">
+<div align="left">
 
 🔹 Object-Oriented Programming (OOP)  
 🔹 RESTful API Fundamentals  
